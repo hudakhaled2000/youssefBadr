@@ -1,0 +1,342 @@
+*{
+    padding: 0;
+    margin: 0;
+    width: auto;
+}
+
+.home{
+    padding-top: 180px;
+    color: white;
+    width: 100%;
+    height:600px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    background: url(pictures/drew-coffman-1872.jpg);
+    background-size: cover;
+}
+
+.home h1{
+font-family: 'Alegreya', serif;
+font-size: 76;
+font-weight:400;
+margin: auto;
+}
+
+.home p{
+font-size: 22px;
+padding-top: 30px;
+}
+
+.button a{
+    display: inline-block;
+    width: 120px;
+    height:auto;
+    margin-top: 50px;
+    padding: 15px 20px;
+    text-transform: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Alegreya', serif;
+    text-decoration: none;
+    color: #F8F8F8;
+    margin: 5px;
+    margin-top: 2%;
+    border-radius: 4px;
+}
+
+.bt1{
+    background-color: #8b7858;
+    border: 2px solid hidden white;
+}
+
+.bt2{
+    border: 2px solid white;
+}
+
+
+.content{
+    width: 49%;
+    display: inline-block;
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+.content h2{
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.content p{
+    font-size: 17;
+    font-weight: 400;
+}
+
+
+.content img{
+    width:80%;
+    margin: 15%;
+}
+
+.mar1{
+padding: 20;
+padding-left: 15;
+list-style: none;
+}
+
+
+.main{
+    width: auto;
+    height: 600px;
+    border: 1px solid #F8F8F8 ;
+    background-color: #F8F8F8;
+}
+
+.location img{
+    width: 39%;
+    height: 500px;
+    margin-right: 150px;
+    float: right;
+}
+
+.location h2{
+padding-left: 115px;
+padding-top: 100px;
+}
+
+.location p{
+padding-left: 100px;
+margin: 15px;
+font-size: 17px;
+font-family: 'Alegreya', serif;
+line-height: 31.62px;
+}
+
+.clear{
+    clear: both;
+}
+
+
+.title{
+text-align: center;   
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.title h3{
+font-size: 25px;
+font-family: 'Alegreya', serif;
+font-weight: 400;
+padding-bottom: 30px;
+}
+.title p{
+    font-size: 17px;
+    font-family: 'Alegreya', serif;
+    font-weight: 400;
+}
+
+.picture{
+    width:25%;
+    text-align: center;
+    float: left;
+    padding-left: 5%;
+    margin-left: 1%;
+}
+
+.picture img{
+    width: 100%;
+}
+
+.picture h4{
+    font-size: 22px;
+    font-weight: 400;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.picture p{
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 31.62px;
+
+}
+
+.clear{
+    clear: both;
+}
+
+.cl2{
+    width: auto;
+    height: 700px;
+    border: 1px solid #F8F8F8 ;
+    background-color: #F8F8F8;
+    margin-top: 100px;
+}
+
+.connect iframe{
+    margin-top: 100px;
+    width: 39%;
+    height: 500px;
+    margin-right: 120px;
+    float: right;
+}
+
+.connect h2{
+    font-family: 'Alegreya', serif;
+    font-size: 32px;
+    padding-left: 155px;
+    padding-top: 150px;
+    font-weight: 400;
+}
+
+.connect p{
+padding-left: 140px;
+margin: 15px;
+font-size: 17px;
+font-family: 'Alegreya', serif;
+font-weight: 400;
+line-height: 31.62px;
+vertical-align: baseline;
+}
+
+
+.content-details p{
+font-family: 'Alegreya', serif;
+font-size: 17px;
+font-weight: 400;
+line-height: 31.62px;
+vertical-align: baseline;
+}
+
+.content-pr1{
+padding-left: 10%;
+margin: 30px;
+list-style: none;
+}
+
+.foot{
+    background-color: #403D38;
+    width: 100%;
+    height: 450px;
+    color: #96968A;
+}
+.foot-content1{
+    float: left;
+    padding: 4% 11%;
+}
+
+.foot-content1 h4{
+    color: #F8F8F8;
+    font-size: 18px;
+    line-height: 24.84px;
+    font-weight: 400;
+    padding-bottom: 8%;
+}
+
+.foot-content1 p{
+    font-size: 16px;
+    line-height: 29.76px;
+    font-weight: 400;
+}
+
+.foot-content2{
+    float: left;
+    padding: 4% 0%;
+    margin-left: -120px;
+}
+
+.foot-content2 h4{
+    color: #F8F8F8;
+    font-size: 18px;
+    line-height: 24.84px;
+    font-weight: 400;
+    padding-top: 4px;
+    padding-bottom: 8%;
+
+}
+.foot-content2 li{
+    font-size: 16px;
+    line-height: 42.76px;
+    font-weight: 400;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+.foot-content3{
+    float: left;
+    padding: 3% 3%;
+}
+
+
+.foot-content3 h4{
+    color: #F8F8F8;
+    font-size: 18px;
+    line-height: 24.84px;
+    font-weight: 400;
+    padding-top: 20px;
+    padding-bottom: 8%;
+
+}
+.foot-content3 li{
+    font-size: 16px;
+    line-height: 40.76px;
+    font-weight: 400;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+.foot-content4 {
+    padding-top: 70px;
+    line-height: 24.84px;
+    float: left;
+    padding-left: 3%;
+}
+
+.foot-content4 h4{
+    color: #F8F8F8;
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 8%;
+}
+
+.foot-content4 p{
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    padding: 5px;
+}
+
+.foot-content4 a{
+color: #96968A;
+text-decoration: none;
+}
+
+.foot-content4 .details1{
+padding-top: 5%;
+padding-bottom: 10%;
+border-bottom: 1px solid rgba(255,255,255,0.05);
+
+}
+.foot-content4 .details2{
+padding-bottom: 10%;
+border-bottom: 1px solid rgba(255,255,255,0.05);
+
+}
+.foot-content4 .details3{
+padding-bottom: 10%;
+}
+
+.clear{
+    clear: both;
+}
+
+.bakery-end{
+    width: 100%;
+    height: 350px;
+    background-color: #353330;
+}
+
+.groub{
+    text-align: center;
+    padding-top: 80px;
+    color: #96968A;
+}
+
+.groub p{
+    padding-top: 20px;
+}
